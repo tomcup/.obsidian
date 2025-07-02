@@ -1,0 +1,13 @@
+{
+  "accentColor": "#789262",
+  "interfaceFontFamily": "Noto Serif CJK SC",
+  "baseFontSize": 22,
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "textFontFamily": "Noto Serif CJK SC",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [],
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

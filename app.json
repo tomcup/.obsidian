@@ -1,0 +1,14 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "attachmentFolderPath": "/附件",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showInlineTitle": true
+}

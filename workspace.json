@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "8690d7ee06de47e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf3415d77c7fffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e4c84936b9570f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "57b61cfc90ffb8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d15019bcf3aebc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c446aee05806e2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21682d1c98d2c75d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f38f8d3bd57943a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#涉及故事线",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "891bb2d231b31746",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.500732421875
+  },
+  "right": {
+    "id": "0fee13b665b831fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd07765934e621d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd9f8a5d29b1f6b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "84e6ebabe37ea0ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "7f0236b01a5362c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "e777077df5bc13cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "be2bb8c09df9ba0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "57b61cfc90ffb8b7",
+  "lastOpenFiles": [
+    "创世历史.md",
+    "README.md",
+    "本源力量.md",
+    "表达/序.md",
+    "底层运行/四大支柱.md",
+    "IDEAS.md",
+    "表达/初论.md",
+    "位面.md",
+    "表达/能源/基础.md",
+    "表达/能源/储备.md",
+    "表达/历程/基础.md",
+    "表达/能源/层级.md",
+    "表达/能源/收集.md",
+    "表达/能源/持续.md",
+    "表达/第二册 表达本质/高能表达.md",
+    "表达/第二册 表达本质/表达平衡.md",
+    "表达/第二册 表达本质/稳态与破坏.md",
+    "表达/第二册 表达本质/来源与去向.md",
+    "表达/第三册 高级表达/诅咒之力.md",
+    "表达/第三册 高级表达/罪业之力.md",
+    "表达/第三册 高级表达/神明之力.md",
+    "表达/第三册 高级表达/混沌之力.md",
+    "表达/第三册 高级表达/梦幻之力.md",
+    "表达/第一册 表达初步/表达效率.md",
+    "表达/第一册 表达初步/表达基础.md",
+    "表达/第一册 表达初步/秩序之力.md",
+    "表达/能源",
+    "表达/第二册 表达本质",
+    "表达/第三册 高级表达",
+    "表达/第一册 表达初步",
+    "表达/效果",
+    "表达/历程",
+    "表达",
+    "底层运行",
+    "理论基础/第二册 表达本质",
+    "理论基础/第三册 高级表达",
+    "未命名.canvas"
+  ]
+}
